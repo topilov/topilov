@@ -1,2 +1,2 @@
 ### Knowledge
-Kotlin, Java, TypeScript, React, Spring, Spring Boot, MongoDB, PostgreSQL, Room, REST, TdApi, Retrofit, OkHttp, Ktor, Coroutines, Jackson, JUnit, MapStruct, Jsoup, Dagger, Hilt, Detekt, Ktlint, KSP, KotlinPoet, Bukkit, Spigot, Jetpack Compose, Android, Docker, Gradle, Git
+Kotlin, Java, TypeScript, React, Spring, Spring Boot, Spring Security, MongoDB, PostgreSQL, Room, REST, TdApi, Retrofit, OkHttp, Ktor, Kotlin Coroutines, Kotlin Flow, Guava, Jackson, DI, Dagger, Hilt, Kotlin Symbol Processing, KotlinPoet, Bukkit, Spigot, Jetpack Compose, Android SDK, Docker, Gradle, Git, JUnit, MapStruct, Jsoup, Detekt, Ktlint
